@@ -158,5 +158,4 @@ public class TadVetor {
     private boolean verificarPosicao(int posicao) {
         return posicao > 0 && posicao <= this.dados.length;
     }
-
 }
